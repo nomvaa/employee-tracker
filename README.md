@@ -5,7 +5,7 @@
 #### Tests
 
 ## Summary
-This application is a Content Management Systems that is an employee management command line application. It prompts the user to view all employee, by departments, by roles, to add and or remove employees. The user input any number of team members, mixing engingeers and interns. This application also pass unit tests. When the user completes building the team, the application will generate an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+This application is a Content Management Systems that is an employee management command line application. It prompts the user to view all employee, by departments, by roles, to add and or remove employees. This application is to artitect and build solution for managing a company's employee using node, inquirer and MySQL.
 
 ## Installation
 
