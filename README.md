@@ -1,7 +1,6 @@
 ## Table of Contents
 #### Installation
 #### Usage
-#### Licenses
 #### Tests
 
 ## Summary
